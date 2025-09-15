@@ -1,22 +1,41 @@
-A pinhole camera using 4"x5" films, to capture a square frame, say 10cmx10cm
+ -- A pinhole camera using 4"x5" films, to capture a square frame, say 10cmx10cm
 The focal length must be chosen so that the whole body is 11cmx11cm.
+
+----
 
 A list of websites and makers of pinhole camera
 
 https://vermeercamera.com/
+
 https://miapinhole.com/?srsltid=AfmBOopWj0_9Vi7OQgJ1Kb_YEpuNEo7mV2pfn0yD2UDXM6nRx9s50BFH
+
 https://realitysosubtle.fr/
+
 https://pinholegraphy.com/
+
 https://www.mrpinhole.com/
 
 
+----
+Lens
+
+https://realitysosubtle.fr/custom-cameras/laser-drilled-pinholes/#:~:text=The%20pinholes%20are%2050%20microns,it%20comes%20to%20image%20quality!
 
 
-
+----
 use 
+
 https://lf.animaux.de/
+
 https://www.lg4mat.net/FilmHolderSpects.html
+
 https://www.largeformatphotography.info/forum/showthread.php?30292-Film-Holder-T-depth-and-ANSI-Standard
+
 www.freelists.org/archives/pure-silver/08-2016/pdfCXYK8Hzbex.pdf
+
+
+
 to find the dimensions of current 4x5 film holders
+
+----
 
